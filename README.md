@@ -3,12 +3,24 @@ Project 0 Getting Started
 
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Author : Kushagra
+  * [LinkedIn](https://www.linkedin.com/in/kushagragoel/)
+* Tested on : Windows 10, i7-9750H CPU @ 2.60GHz 16GB, GTX 1650 4GB (Personal Computer)  
 
-### (TODO: Your README)
+***
+**DXR Support Test**  
+The project switches to the FallBack layer to use ray tracing as GTX 1650 does not support DXR.
+![](images/DXR_Golden_Barycentre.jpg)  
+***
+**WebGL Support Test**  
+![](images/GPU_WebGL.png)  
+***
+**GPU Test**  
+![](images/GettingStartedGTX1650.jpg)  
 
-Include screenshots, analysis, etc. (Remember, this is public, so don't put
-anything here that you don't want to share with the world.)
-
+***
+**Performance Analysis Timeline**  
+![](images/GettingStartedTimeline.jpg)  
+***
+**Breakpoint Debugging with Nsight**  
+![](images/GettingStartedNsightBreakPoint.jpg)  
